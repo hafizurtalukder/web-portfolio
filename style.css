@@ -1,0 +1,11 @@
+
+.halfwith{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding: 2px;
+}
+.halfwith img{
+    width: 100%;
+    height: 600px;
+}
